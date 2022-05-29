@@ -116,7 +116,7 @@
         "IsAGRoom": true,
         "CloningAllowed": false,
         "SupportsScreens": true,
-        "SupportsWalkVR": true,
+        "SupportsWalkVR": false,
         "SupportsTeleportVR": true
     },
     {
