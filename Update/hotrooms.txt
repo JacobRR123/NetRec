@@ -77,7 +77,7 @@
     {
         "RoomId": 7,
         "Name": "Paddleball",
-        "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
+        "Description": "ball",
         "CreatorPlayerId": 72963398,
         "ImageName": "ffdca6ed8bd94631ac15e3e894acb6c6",
         "State": 0,
