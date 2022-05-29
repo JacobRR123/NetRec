@@ -117,7 +117,7 @@
         "CloningAllowed": false,
         "SupportsScreens": true,
         "SupportsWalkVR": false,
-        "SupportsTeleportVR": true
+        "SupportsTeleportVR": false
     },
     {
         "RoomId": 14,
