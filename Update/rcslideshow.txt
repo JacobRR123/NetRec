@@ -24,12 +24,6 @@
             "Username": "Jacob [NetRec Dev]",
             "RoomName": "LaserTag"
         }
-        {
-            "SavedImageId": 28,
-            "ImageName": "4d143a3359e8483e8d48116ab6cacecb",
-            "Username": "NatRec [Onwer]
-            "RoomName": "Bowling"
-      }
-    ],
-    "ValidTill": "2024-06-09T19:06:44.927Z"
+       ],
+       "ValidTill": "2024-06-09T19:06:44.927Z"
 }
