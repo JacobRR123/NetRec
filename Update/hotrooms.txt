@@ -114,10 +114,10 @@
         "Accessibility": 1,
         "SupportsLevelVoting": false,
         "IsAGRoom": true,
-        "CloningAllowed": false,
+        "CloningAllowed": true,
         "SupportsScreens": true,
-        "SupportsWalkVR": false,
-        "SupportsTeleportVR": false
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true
     },
     {
         "RoomId": 14,
