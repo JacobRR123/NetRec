@@ -123,7 +123,7 @@
         "RoomId": 14,
         "Name": "TheRiseofJumbotron",
         "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
-        "CreatorPlayerId": 72963398,
+        "CreatorPlayerId": 1,
         "ImageName": "51296f28105b48178708e389b6daf057",
         "State": 0,
         "Accessibility": 1,
