@@ -20,7 +20,7 @@ namespace api2017
 				Level = level,
 				Reputation = 0,
 				Verified = true,
-				Developer = true,
+				Developer = false,
 				HasEmail = true,
 				CanReceiveInvites = false,
 				ProfileImageName = name,
