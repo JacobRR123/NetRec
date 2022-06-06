@@ -36,7 +36,7 @@ namespace gamesesh
 				RecRoomId = null,
 				EventId = null,
 				CreatorPlayerId = creatorid,
-				Name = "OpenRec Room",
+				Name = "netrec Room",
 				ActivityLevelId = joinRandomRequest.ActivityLevelIds[0],
 				Private = false,
 				Sandbox = true,
