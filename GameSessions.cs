@@ -39,7 +39,7 @@ namespace gamesesh
 				Name = "OpenRec Room",
 				ActivityLevelId = joinRandomRequest.ActivityLevelIds[0],
 				Private = false,
-				Sandbox = false,
+				Sandbox = true,
 				SupportsScreens = true,
 				SupportsVR = true,
 				GameInProgress = false,
