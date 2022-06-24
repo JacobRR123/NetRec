@@ -151,7 +151,7 @@
     },
     {
         "RoomId": 16,
-        "Name": "IsleOfLostSkulls",
+        "Name": "Soccer",
         "Description": "Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
         "CreatorPlayerId": 5391891,
         "ImageName": "45ad53aa002646d0ab3eb509b9f260ef",
