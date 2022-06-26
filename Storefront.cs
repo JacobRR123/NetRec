@@ -257,7 +257,7 @@ namespace storefront2018
 			// Token: 0x04000162 RID: 354
 			Rare = 20,
 			// Token: 0x04000163 RID: 355
-			Epic = 30,
+			Epic = 800,
 			// Token: 0x04000164 RID: 356
 			Legendary = 50
 		}
