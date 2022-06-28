@@ -1,2 +1,1 @@
-{"UserId":3390862,"Reason":"Banned."},{"UserId":10000000,"Reason":"Banned."}, 
-{"UserId":5391891,"Reason":"Banned."}, 
+[{"UserId":487454,"Reason":"Banned."}, {"UserId":4701796,"Reason":"Banned."}, {"UserId":1623123,"Reason":"Banned."}, {"UserId":1423224,"Reason":"Banned."}],[{"UserId":63225,"Reason":"Banned."}]
