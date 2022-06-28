@@ -45,7 +45,7 @@ namespace api2018
 			string name = File.ReadAllText("SaveData\\Profile\\username.txt");
 			return JsonConvert.SerializeObject(new logincached
 			{
-				Error = "",
+				Error = "IM GEY",
 				Player = new getcachedlogins
 				{
 					Id = userid,
