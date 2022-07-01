@@ -256,7 +256,7 @@
     },
     {
         "RoomId": 27,
-        "Name": "QuestForDraucula",
+        "Name": "gokartQuest",
         "Description": "Gather your vampire hunting crew, conquer a legendary castle, and restore peace to Rec Room!",
         "CreatorPlayerId": 5391891,
         "ImageName": "d0df003353914adfaecdd23f428208b6",
