@@ -4,7 +4,7 @@
             "SavedImageId": 1,
             "ImageName": "38e9d0d4eff94556a0b106508249dcf9",
             "Username": "hi1234",
-            "RoomName": "COCK123"
+            "RoomName": "GoldenTrophy"
         },
         {
             "SavedImageId": 2,
