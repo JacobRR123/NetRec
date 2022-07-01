@@ -16,7 +16,7 @@
             "SavedImageId": 3,
             "ImageName": "3ab82779dff94d11920ebf38df249395",
             "Username": "hi1234",
-            "RoomName": "ben"
+            "RoomName": "CrimsonCauldron"
         },
         {
             "SavedImageId": 18,
