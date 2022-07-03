@@ -713,6 +713,3 @@ namespace server
 
 		public static string Banned = "{\"ReportCategory\":1,\"Duration\":10000000000000000,\"GameSessionId\":100,\"Message\":\"You have been banned. You are probably a little kid and are now whining at your VR headset. If you aren't a little kid, DM me to appeal.\"}";
 
-		private HttpListener listener = new HttpListener(); 
-	}
-}
