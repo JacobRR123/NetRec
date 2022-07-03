@@ -1,7 +1,7 @@
 [
     {
         "RoomId": 29,
-        "Name": "Custom Room",
+        "Name": "room hi1234",
         "Description": "Custom Room",
         "CreatorPlayerId": 1,
         "ImageName": "CustomRoom.png",
