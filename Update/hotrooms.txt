@@ -16,7 +16,7 @@
     },
     {
         "RoomId": 3,
-        "Name": "3DCharades",
+        "Name": "RecSkiing",
         "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
         "CreatorPlayerId": 72963398,
         "ImageName": "a446d5808ed14401a27f53e631c31b93.png",
