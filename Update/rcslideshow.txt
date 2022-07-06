@@ -2,13 +2,13 @@
     "Images": [
         {
             "SavedImageId": 1,
-            "ImageName": "53xc5j0aynqyu5zhrt6utr973.jpg",
+            "ImageName": "1",
             "Username": "Gribbly",
             "RoomName": "GoldenTrophy"
         },
         {
             "SavedImageId": 2,
-            "ImageName": "53xc5j0aynqyu5zhrt6utr973.jpg",
+            "ImageName": "1",
             "Username": "Gribbly",
             "RoomName": "TheRiseofJumbotron"
         },
