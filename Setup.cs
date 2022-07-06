@@ -103,7 +103,7 @@ namespace start
             {
 				try
 				{
-					api.CustomRooms.RoomGet("netrec");
+					api.CustomRooms.RoomGet("RecSkiing");
 				}
 				catch
 				{
