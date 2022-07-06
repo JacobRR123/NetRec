@@ -2,7 +2,7 @@
     "Images": [
         {
             "SavedImageId": 1,
-            "ImageName": "53xc5j0aynqyu5zhrt6utr973.jpg",
+            "ImageName": "lol.png",
             "Username": "Gribbly",
             "RoomName": "GoldenTrophy"
         },
