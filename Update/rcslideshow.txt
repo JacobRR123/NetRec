@@ -2,7 +2,7 @@
     "Images": [
         {
             "SavedImageId": 1,
-            "ImageName": "1",
+            "ImageName": "38e9d0d4eff94556a0b106508249dcf9",
             "Username": "Gribbly",
             "RoomName": "GoldenTrophy"
         },
