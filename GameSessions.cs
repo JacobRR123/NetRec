@@ -38,7 +38,7 @@ namespace gamesesh
 				CreatorPlayerId = creatorid,
 				Name = "netrec Room",
 				ActivityLevelId = joinRandomRequest.ActivityLevelIds[0],
-				Private = false,
+				Private = true,
 				Sandbox = true,
 				SupportsScreens = true,
 				SupportsVR = true,
