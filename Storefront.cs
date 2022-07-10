@@ -317,7 +317,7 @@ namespace storefront2018
 								EquipmentPrefabName = "",
 								EquipmentModificationGuid = "",
 								Rarity = 50,
-								IsQuery = false,
+								IsQuery = true,
 								Unique = false,
 								Level = 50,
 								Context = 100010
