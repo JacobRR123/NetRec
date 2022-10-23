@@ -1,6 +1,6 @@
 # Welcome to NetRec!
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+NetRec is a RecRoom server software made by Jacob RR!
 
 ### Branches
  - Master / main
