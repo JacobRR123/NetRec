@@ -4,9 +4,9 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon>icon2.ico</ApplicationIcon>
-    <AssemblyName>OpenRec</AssemblyName>
-    <RootNamespace>OpenRec</RootNamespace>
-    <Authors>recroom2016</Authors>
+    <AssemblyName>NetRec</AssemblyName>
+    <RootNamespace>NetRec</RootNamespace>
+    <Authors>Jacob Pierce</Authors>
     <PackageIcon>icon2.png</PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/recroom2016/OpenRec</RepositoryUrl>
