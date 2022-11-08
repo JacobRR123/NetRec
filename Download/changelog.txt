@@ -1,11 +1,7 @@
-Feature Patch Nightly: Among Us Builds?
--Added tutorial and info hints
--Added custom rooms back into 2018 (no saving yet)
--Added Profile Downloader
--Added build links tab
--Improved profile image changing
--Updated the UI more
+NEW Patch v0.2 BIG UPDATE
+-Added Bio To Work Kinda
+-Better Ban System
+-Starting To Know API!
 
-Credits:
-@Jake123#8025 Made NetRec Nightly
-@hi1234#1181 Gave Me Things To Make And Beta Tested NetRec Nightly
+Funny People:
+Jacob RR - Did Everything
