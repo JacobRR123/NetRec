@@ -19,10 +19,16 @@
             "RoomName": "CrimsonCauldron"
         },
         {
-            "SavedImageId": 18,
+            "SavedImageId": 4,
             "ImageName": "3uk7mfek5rtpx9pw2zfix2l0h.jpg",
             "Username": "Nightly User#9786547",
             "RoomName": "IsleOfLostSkulls"
+        },
+        {
+            "SavedImageId": 5,
+            "ImageName": "Funny.png",
+            "Username": "The Coding Man",
+            "RoomName": "DormRoom
         }
        ],
        "ValidTill": "2024-06-09T19:06:44.927Z"
